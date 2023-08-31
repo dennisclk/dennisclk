@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Deniz.
+
+- 🌱 I’m currently learning cybersecurity fundamentals.
+- 🔭 I’m currently working on owasp top 10 vulns.
 
 <!--
 **dennisclk/dennisclk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
